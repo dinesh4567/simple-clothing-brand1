@@ -13,7 +13,7 @@
     </nav>
 
     <div class="container text-center">
-        <h1>Welcome to UrbanWear</h1>
+        <h1>Welcome to SummerWear</h1>
         <p class="lead">Your destination for modern, sustainable fashion.</p>
         <a href="products" class="btn btn-primary btn-lg mt-3">Shop Our Collection</a>
     </div>
