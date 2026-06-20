@@ -8,7 +8,7 @@
 <body>
     <nav class="navbar navbar-dark bg-dark mb-4">
         <div class="container">
-            <a class="navbar-brand" href="index.jsp">UrbanWear</a>
+            <a class="navbar-brand" href="index.jsp">SummerWear</a>
         </div>
     </nav>
 
